@@ -1,5 +1,17 @@
 # 更新紀錄 Changelog
 
+## v0.2 測試版（2026-11-14）
+
+- 新增前門與加高框罩相關列印件 16 種（STL），其中 10 種附 STEP 方便修改：270° 前門鉸鏈（門側夾板、背板、固定座）、門把手（上左右、下左右）、上樑磁吸門扣、Z 皮帶蓋（A／B 鏡像）、框罩角座（A／B）、座圈填塊（前、側）、換頭線束梳座與磁吸壓蓋。
+- v0.1 的 50 件主體列印件照舊在 v0.1；v0.1 裡舊的 12 件加高框檔案已由本版取代。
+- 授權：全部 GPL-3.0。鉸鏈、把手、門扣改自 chrisrgonzales 的「270° Front Panel Hinge」（GPL-3.0，鉸鏈加厚到 2 mm）；Z 皮帶蓋改自 Akio 在 Voron Mods 發表的 V2.4 Z 皮帶蓋（GPL-3.0，https://mods.vorondesign.com/details/LzEFU0RDHXUarF7y69x2Q），加上 Voron LOGO；其餘為 Alan 自行設計。尚未經過實機驗證。
+
+*test release*
+
+- Adds 16 printed parts for the front doors and the raised hood (STL); 10 of them also come as STEP for editing: 270° front-door hinge (door plate, back plate, mount), door handles (upper L/R, lower L/R), magnetic door latch, Z belt covers (A/B mirrored), hood corner blocks (A/B), sill fillers (front, side), and the toolchanger cable comb with its magnetic cap.
+- The 50 main-frame parts stay in v0.1; the 12 old hood-riser files in v0.1 are superseded by this release.
+- License: all GPL-3.0. Hinge, handles and latch are derived from chrisrgonzales' "270° Front Panel Hinge" (GPL-3.0; hinge thickened to 2 mm). The Z belt covers are derived from Akio's V2.4 Z belt cover on Voron Mods (GPL-3.0, https://mods.vorondesign.com/details/LzEFU0RDHXUarF7y69x2Q) with a Voron logo added. Everything else is Alan's own design. Not yet verified on a real machine.
+
 ## v0.1 測試版（2026-11-06）
 
 - 第一次開放測試下載：50 件列印件 STL。
